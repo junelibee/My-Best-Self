@@ -30,3 +30,130 @@ This is My Best Self
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+</head>
+
+
+
+<nav>
+    <div>
+                    <div class="myNavDiv">
+            <ul class="myNavUl">    
+                <li class="navLink" >
+                  <a class="navTitle" href="index.html">math*art</a>
+                </li> 
+
+                <li class="navLink" >
+                    <a id="resources" href="resources.html">resources</a>
+                </li> 
+
+                <!-- <li class="navLink" >
+                    <a id="studentWork" href="studentworks.html">tumblr blogs</a>
+                </li>  -->
+                <li class="navLink" >
+                    <a id="about" href="about.html">faq</a>
+                </li> 
+        
+                <li class="navLink" >
+                    <a id="projects" href="assignments.html">assignments</a>
+                </li> 
+
+            </ul>
+        </div>
+
+    </div>
+   
+</nav>
+
+<body>
+
+
+    
+    <div class="container">
+
+        <div class="container">
+
+            <div class=" col-lg-12">
+                <h1 class="page-header">math*art 2019</h1>
+            </div>
+
+                <div class="rulesPageBody">
+
+
+                     <div class="panel-heading" id="blackWhite"> 
+                        <h4>assignment1 : tessellations</h4>
+                    </div>      
+                    
+                    <div class="panel-body">
+                        <p>Today we are getting acquainted with p5.js and github, got some basic stuff about Euclid, Descartes and geometry under our belts and learned about a concept called tessellation.  Which is a lot like wallpaper:</p>
+                        <li><a href="https://en.wikipedia.org/wiki/Wallpaper_group">wallpaper groups</a></li>
+                        <p>We learned about functions and how to make our own function to draw repetitive shapes to the screen.  Functions can take arguments like x and y and transform those values in various ways.</p>
+                        <p>We started out by making regular, repeating tessellations, first squares then triangles.</p>
+                        <p>We learned a simple equation to calculate distance on diagonals, the distance formula, a variation of the pythagorean function.</p>
+                        <p>Post your version of tiling triangles below.</p>
+                        <p>Then, create your own weird shape using p5's begineShape() and endShape functions, and maybe some bezier curves or countours.</p>
+                        <p>Repeat the shape to make your own groovy tessellation.  Add interesting colors to make it pop.</p>
+                       
+                    </div>                    
+
+
+                    <div class="panel-body">
+                        <p class="linkz">submissions:</p>
+                        <ul>
+                            <li><a href="https://editor.p5js.org/socalledsound/sketches/EfPmjPqdM">chris k: triangles</a></li>
+                            <li><a href="https://editor.p5js.org/socalledsound/sketches/ExHfLY8dU">chris k: repeating things</a></li>
+
+  
+                            <li><a href="https://editor.p5js.org/socalledsound/sketches/f7PaFmlEd">chris k: egyptianish tiles</a></li>
+
+                            <li><a href="https://editor.p5js.org/juneli/sketches/9C-3qIiWl">juneliassignment1</a></li>
+
+                            <li><a href="https://editor.p5js.org/Mkim1001/sketches/dHEzGcYKz">Minjun k: assignment number 1</a></li>
+                            <li><a href="https://editor.p5js.org/Mkim1001/sketches/Uftpneg9b">Minjun k: assignment number 2</a></li>
+                            <li><a href=""></a></li>
+                            <li><a href=""></a></li>
+                            <li><a href=""></a></li>
+                            <li><a href="https://editor.p5js.org/rubyang726/sketches/ov3fZyOGe">Leyi Yang:another pattern</a></li>
+
+                          <li><a href="https://editor.p5js.org/socalledsound/sketches/HweTCbJrt">chris k : inclass tessellation</a></li>
+
+                            <li><a href=""></a></li>
+                            <li><a href="https://editor.p5js.org/socalledsound/sketches/_euZ5aXUr">chris k: distance formula in action</a></li>
+                            <li><a href="https://editor.p5js.org">not chris: whatever</a></li>
+                            <li><a href="https://editor.p5js.org/nmadigubba/sketches/SzdNuF1h3">Nivvi: Malachite metal</a></li>
+
+                            <li><a href="https://editor.p5js.org/nmadigubba/sketches/ZWdnj26rP">Nivvi: Magical exhaust</a></li>
+                            <li><a href="https://editor.p5js.org/nmadigubba/sketches/oXAcJ2uyO">Nivvi: Earthy blossom</a></li>
+                            <li><a href=""></a></li>
+
+
+                            <li><a href="https://editor.p5js.org/nmadigubba/sketches/ZWdnj26rP">Nivvi: Magical exhaust</a></li>
+
+
+                           
+                       <li><a href="https://editor.p5js.org/Nolongerhumann/sketches/v493xckAp">Qi Shen assignment1</a></li><li><a href=""></a></li>
+
+                            <li><a href="https://editor.p5js.org/julfair/sketches/EpV5TsA1r">julia: Adjoining rowboat</a></li>
+                            <li><a href=""></a></li>
+                            <li><a href=""></a></li>
+                            <li><a href="https://editor.p5js.org/julfair/sketches/dkGflOHUX">julia: puzzle rainbow</a></li>
+           
+                            <li><a href="https://editor.p5js.org/davidfromthefuture/sketches/1QedFJ8du">davidwelch</a></li>
+
+                            <li><a href=""></a></li>
+                            <li><a href=""></a></li>
+                            <li><a href=""></a></li>
+                        </ul>
+                        
+
+                    </div>
+
+
+   
+ 
+            </div>
+   
+
+
+    </div>
+</body>
+</html>
