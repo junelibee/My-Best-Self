@@ -20,7 +20,7 @@ This is My Best Self
     <link href="css/full-width-pics.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
-    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="font-times/css/font-times.min.css" rel="stylesheet" type="text/css">
 
     <link href="css/mathStyles.css" rel="stylesheet">
 
@@ -47,14 +47,14 @@ This is My Best Self
                 </li> 
 
                 <!-- <li class="navLink" >
-                    <a id="studentWork" href="studentworks.html">tumblr blogs</a>
+                    <a id="myWork" href="mywork.html">tumblr blogs</a>
                 </li>  -->
                 <li class="navLink" >
-                    <a id="about" href="about.html">faq</a>
+                    <a id="about" href="about.html">about</a>
                 </li> 
         
                 <li class="navLink" >
-                    <a id="projects" href="assignments.html">assignments</a>
+                    <a id="me" href="projects.html">projects</a>
                 </li> 
 
             </ul>
@@ -73,14 +73,14 @@ This is My Best Self
         <div class="container">
 
             <div class=" col-lg-12">
-                <h1 class="page-header">math*art 2019</h1>
+                <h1 class="page-header">my*best*self</h1>
             </div>
 
                 <div class="rulesPageBody">
 
 
                      <div class="panel-heading" id="blackWhite"> 
-                        <h4>assignment1 : tessellations</h4>
+                        <h4>Arist Bio : June Li Borgese</h4>
                     </div>      
                     
                     <div class="panel-body">
